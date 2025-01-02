@@ -2,6 +2,49 @@
   "Packages": [
     {
       "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.25.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\closedxml\\0.100.3\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\irony.netcore\\1.0.11\\lib/netstandard1.6/Irony.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OOXML.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\sharpziplib\\1.4.2\\lib/net6.0/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib/netcoreapp3.1/SixLabors.Fonts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.API.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.ViewModels.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.PowerPoint.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/OFFICE.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/UiPath.OfficeLibs.Package.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.3.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.platform\\24.11.1\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.telemetry.client\\2.3.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\xlparser\\1.5.2\\lib/netstandard1.6/XLParser.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview"
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "24.10.7"
       },
@@ -93,54 +136,67 @@
     },
     {
       "Package": {
-        "Id": "UiPath.Excel.Activities",
-        "Version": "2.25.0-preview"
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "24.10.8"
       },
       "Assemblies": [
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\closedxml\\0.100.3\\lib/netstandard2.0/ClosedXML.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib/netstandard2.0/ExcelNumberFormat.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\irony.netcore\\1.0.11\\lib/netstandard1.6/Irony.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OOXML.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\sharpziplib\\1.4.2\\lib/net6.0/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib/netcoreapp3.1/SixLabors.Fonts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\nlog\\4.7.15\\lib/netstandard2.0/NLog.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib/net6.0-windows7.0/SapAutomationConnectivitySdk.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib/net6.0-windows7.0/SapAutomationLogger.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib/net6.0-windows7.0/SapWinGuiSdk.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib/net6.0-windows7.0/UiPath.Interop.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.API.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.ViewModels.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.PowerPoint.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Word.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/OFFICE.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/UiPath.OfficeLibs.Package.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/concrt140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/cvextern.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/Emgu.CV.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/libusb-1.0.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140_1.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140_2.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140_atomic_wait.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140_codecvt_ids.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/vcruntime140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/vcruntime140_1.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.3.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.platform\\24.11.1\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.telemetry.client\\2.3.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\xlparser\\1.5.2\\lib/netstandard1.6/XLParser.dll"
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.design.recoverypanel\\24.10.8\\lib/net6.0/UiPath.UIAutomation.Activities.Design.RecoveryPanel.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.CV.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.ExternalIntegrations.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib/net6.0-windows7.0/UiPath.Vision.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
       ],
-      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.UIAutomation.Activities",
-        "Version": "[24.10.8]"
-      },
-      "Assemblies": [],
-      "Path": null
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8"
     }
   ],
   "Conflicts": [],
@@ -376,6 +432,28 @@
         {
           "Item1": "Microsoft.AspNetCore.SignalR.Common",
           "Item2": "[6.0.36, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": {
+      "Id": "Microsoft.Azure.CognitiveServices.Vision.ComputerVision",
+      "Version": "7.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
         }
       ]
     },
@@ -777,6 +855,24 @@
       "Id": "Microsoft.Rest.ClientRuntime",
       "Version": "2.3.24",
       "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime.Azure": {
+      "Id": "Microsoft.Rest.ClientRuntime.Azure",
+      "Version": "3.3.18",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.17, 3.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[10.0.3, )"
@@ -1263,6 +1359,11 @@
           "Item2": "[1.8.9, )"
         }
       ]
+    },
+    "Polly": {
+      "Id": "Polly",
+      "Version": "7.1.0",
+      "Dependencies": []
     },
     "Portable.BouncyCastle": {
       "Id": "Portable.BouncyCastle",
@@ -1852,6 +1953,20 @@
         {
           "Item1": "Microsoft.Win32.SystemEvents",
           "Item2": "[6.0.0, )"
+        }
+      ]
+    },
+    "System.Drawing.Primitives": {
+      "Id": "System.Drawing.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -3532,6 +3647,20 @@
         }
       ]
     },
+    "System.Text.Json": {
+      "Id": "System.Text.Json",
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[6.0.0, )"
+        }
+      ]
+    },
     "System.Text.RegularExpressions": {
       "Id": "System.Text.RegularExpressions",
       "Version": "4.3.1",
@@ -3757,6 +3886,21 @@
         }
       ]
     },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "24.10.112.56016",
+      "Dependencies": []
+    },
+    "UiPath.Activities.RuntimeGovernance": {
+      "Id": "UiPath.Activities.RuntimeGovernance",
+      "Version": "1.1.6",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
     "UiPath.CodedWorkflows": {
       "Id": "UiPath.CodedWorkflows",
       "Version": "24.10.1",
@@ -3780,6 +3924,28 @@
         {
           "Item1": "System.ValueTuple",
           "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "UiPath.EmguCVBundle": {
+      "Id": "UiPath.EmguCVBundle",
+      "Version": "1.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices.RuntimeInformation",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "System.Drawing.Primitives",
+          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -3846,6 +4012,75 @@
         {
           "Item1": "UiPath.Telemetry.Client",
           "Item2": "[2.1.3, )"
+        }
+      ]
+    },
+    "UiPath.ImageProcessing": {
+      "Id": "UiPath.ImageProcessing",
+      "Version": "23.4.0",
+      "Dependencies": []
+    },
+    "UiPath.OCR.Activities": {
+      "Id": "UiPath.OCR.Activities",
+      "Version": "3.21.2",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.CognitiveServices.Vision.ComputerVision",
+          "Item2": "[7.0.1, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.24, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "NLog",
+          "Item2": "[4.5.11, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.1.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "System.Text.RegularExpressions",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.EmguCVBundle",
+          "Item2": "[1.3.0, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.16.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[23.4.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.16.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[5.0.3, )"
         }
       ]
     },
@@ -4070,6 +4305,98 @@
         }
       ]
     },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "24.10.8",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.UIAutomation.Activities.Runtime",
+          "Item2": "[24.10.8, 24.10.8]"
+        },
+        {
+          "Item1": "UiPath.UIAutomation.Activities.Design.RecoveryPanel",
+          "Item2": "[24.10.8, 24.10.8]"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities.Design.RecoveryPanel": {
+      "Id": "UiPath.UIAutomation.Activities.Design.RecoveryPanel",
+      "Version": "24.10.8",
+      "Dependencies": []
+    },
+    "UiPath.UIAutomation.Activities.Runtime": {
+      "Id": "UiPath.UIAutomation.Activities.Runtime",
+      "Version": "24.10.8",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[24.10.112.56016, 24.10.112.56016]"
+        },
+        {
+          "Item1": "UiPath.UIAutomation.Activities.Runtime.Design",
+          "Item2": "[24.10.8, 24.10.8]"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[3.14.2, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.16.0, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Activities",
+          "Item2": "[3.21.2, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.11.1, )"
+        },
+        {
+          "Item1": "UiPath.CodedWorkflows",
+          "Item2": "[24.10.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "UiPath.ImageProcessing",
+          "Item2": "[23.4.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        },
+        {
+          "Item1": "UiPath.Activities.RuntimeGovernance",
+          "Item2": "[1.1.6, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities.Runtime.Design": {
+      "Id": "UiPath.UIAutomation.Activities.Runtime.Design",
+      "Version": "24.10.8",
+      "Dependencies": []
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "3.14.2",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.16.0, )"
+        },
+        {
+          "Item1": "UiPath.EmguCVBundle",
+          "Item2": "[1.3.0, )"
+        }
+      ]
+    },
     "XLParser": {
       "Id": "XLParser",
       "Version": "1.5.2",
@@ -4245,6 +4572,16 @@
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.36\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
       ],
       "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.36"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.CognitiveServices.Vision.ComputerVision",
+        "Version": "7.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib\\netstandard2.0\\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1"
     },
     {
       "Package": {
@@ -4549,6 +4886,16 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime.Azure",
+        "Version": "3.3.18"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\netstandard1.4\\Microsoft.Rest.ClientRuntime.Azure.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.VisualBasic",
         "Version": "10.3.0"
       },
@@ -4693,6 +5040,16 @@
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6"
+    },
+    {
+      "Package": {
+        "Id": "Polly",
+        "Version": "7.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\polly\\7.1.0"
     },
     {
       "Package": {
@@ -5425,6 +5782,16 @@
     },
     {
       "Package": {
+        "Id": "System.Drawing.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib\\netstandard1.1\\System.Drawing.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.drawing.primitives\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.Formats.Asn1",
         "Version": "6.0.1"
       },
@@ -6112,6 +6479,16 @@
     },
     {
       "Package": {
+        "Id": "System.Text.Json",
+        "Version": "6.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.json\\6.0.0\\lib\\net6.0\\System.Text.Json.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.json\\6.0.0"
+    },
+    {
+      "Package": {
         "Id": "System.Text.RegularExpressions",
         "Version": "4.3.1"
       },
@@ -6248,6 +6625,29 @@
     },
     {
       "Package": {
+        "Id": "UiPath",
+        "Version": "24.10.112.56016"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib\\net6.0-windows7.0\\SapAutomationConnectivitySdk.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib\\net6.0-windows7.0\\SapAutomationLogger.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib\\net6.0-windows7.0\\SapWinGuiSdk.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\lib\\net6.0-windows7.0\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Activities.RuntimeGovernance",
+        "Version": "1.1.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib\\net5.0-windows7.0\\UiPath.Activities.RuntimeGovernance.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6"
+    },
+    {
+      "Package": {
         "Id": "UiPath.CodedWorkflows",
         "Version": "24.10.1"
       },
@@ -6255,6 +6655,26 @@
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\lib\\net6.0-windows7.0\\UiPath.CodedWorkflows.dll"
       ],
       "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.codedworkflows\\24.10.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.EmguCVBundle",
+        "Version": "1.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\concrt140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\cvextern.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\Emgu.CV.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\libusb-1.0.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140_1.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140_2.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140_atomic_wait.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140_codecvt_ids.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\vcruntime140.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\vcruntime140_1.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0"
     },
     {
       "Package": {
@@ -6270,6 +6690,38 @@
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.ImageProcessing",
+        "Version": "23.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.ImageProcessingInterop.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.imageprocessing\\23.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Activities",
+        "Version": "3.21.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\lib\\net6.0-windows7.0\\UiPath.OCR.Core.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.16.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib\\net6.0-windows7.0\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0"
     },
     {
       "Package": {
@@ -6349,6 +6801,72 @@
         "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.telemetry.client\\2.3.3\\lib\\netstandard2.0\\TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.telemetry.client\\2.3.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "24.10.8"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities.Design.RecoveryPanel",
+        "Version": "24.10.8"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.design.recoverypanel\\24.10.8\\lib\\net6.0\\UiPath.UIAutomation.Activities.Design.RecoveryPanel.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.design.recoverypanel\\24.10.8"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities.Runtime",
+        "Version": "24.10.8"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.ExternalIntegrations.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities.Runtime.Design",
+        "Version": "24.10.8"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomation.Activities.Runtime.Design.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.8"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "3.14.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+      ],
+      "Path": "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2"
     },
     {
       "Package": {

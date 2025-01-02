@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open browser and search Java",
+  "Type": "Screen",
+  "Id": "DVYqIaaeN0OU-e4RSxWssw",
+  "Reference": "arLyW837skmnC1rqgS3j7g/DVYqIaaeN0OU-e4RSxWssw",
+  "ParentRef": "arLyW837skmnC1rqgS3j7g/N8yds5lio0GzToxYumXXbQ",
+  "Created": "2024-12-30T12:51:23.1131681Z",
+  "Updated": "2024-12-30T12:51:23.1131681Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

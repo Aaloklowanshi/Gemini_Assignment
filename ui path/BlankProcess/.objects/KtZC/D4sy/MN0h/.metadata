@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome web.whatsapp.com",
+  "Type": "Screen",
+  "Id": "MN0hQrGIx0aFV3Xc0r_VLg",
+  "Reference": "arLyW837skmnC1rqgS3j7g/MN0hQrGIx0aFV3Xc0r_VLg",
+  "ParentRef": "arLyW837skmnC1rqgS3j7g/D4syrUi_Ik2lFM4nkb2e4A",
+  "Created": "2024-12-30T12:58:25.1944419Z",
+  "Updated": "2024-12-30T12:58:25.1944419Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

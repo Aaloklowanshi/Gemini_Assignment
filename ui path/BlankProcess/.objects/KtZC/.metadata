@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome web.whatsapp.com",
+  "Type": "App",
+  "Id": "KtZClohe502UnzZjHN395Q",
+  "Reference": "arLyW837skmnC1rqgS3j7g/KtZClohe502UnzZjHN395Q",
+  "Created": "2024-12-30T12:58:25.1760659Z",
+  "Updated": "2024-12-30T12:58:25.1760659Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

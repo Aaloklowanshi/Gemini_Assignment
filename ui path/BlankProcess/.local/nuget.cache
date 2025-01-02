@@ -1,7 +1,7 @@
 {
   "version": 2,
   "dgSpecHash": "4qav8gzNbFe8Fj2sUae80XXQeUc2BTFRxNKVBz0Sh/dKblZlU9OPvVXkFf2p3FpX++4AKIBy98qk/de4nrPPFQ==",
-  "success": false,
+  "success": true,
   "projectFilePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",
@@ -20,6 +20,7 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.36\\microsoft.aspnetcore.signalr.client.core.6.0.36.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.36\\microsoft.aspnetcore.signalr.common.6.0.36.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.36\\microsoft.aspnetcore.signalr.protocols.json.6.0.36.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\microsoft.azure.cognitiveservices.vision.computervision.7.0.1.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\microsoft.codeanalysis.common.4.5.0-2.22527.10.nupkg.sha512",
@@ -51,6 +52,7 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.powershell.sdk\\7.2.24\\microsoft.powershell.sdk.7.2.24.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.powershell.security\\7.2.24\\microsoft.powershell.security.7.2.24.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\microsoft.rest.clientruntime.2.3.24.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\microsoft.rest.clientruntime.azure.3.3.18.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
@@ -66,6 +68,7 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\njsonschema\\10.5.2\\njsonschema.10.5.2.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\radcommons.core\\2.0.1\\radcommons.core.2.0.1.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
@@ -144,6 +147,7 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.directoryservices.accountmanagement\\6.0.0\\system.directoryservices.accountmanagement.6.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.formats.asn1\\6.0.1\\system.formats.asn1.6.0.1.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
@@ -216,6 +220,7 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\system.text.regularexpressions.4.3.1.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.threading.accesscontrol\\6.0.0\\system.threading.accesscontrol.6.0.0.nupkg.sha512",
@@ -230,8 +235,14 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath\\24.10.112.56016\\uipath.24.10.112.56016.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\uipath.codedworkflows.24.10.1.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\uipath.emgucvbundle.1.3.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.excel.activities\\2.25.0-preview\\uipath.excel.activities.2.25.0-preview.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\uipath.imageprocessing.23.4.0.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.activities\\3.21.2\\uipath.ocr.activities.3.21.2.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\uipath.ocr.contracts.2.16.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.officelibs\\1.0.0\\uipath.officelibs.1.0.0.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.3.3\\uipath.opentelemetry.contracts.2.3.3.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.platform\\24.11.1\\uipath.platform.24.11.1.nupkg.sha512",
@@ -239,121 +250,12 @@
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.7\\uipath.system.activities.runtime.24.10.7.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.7\\uipath.system.activities.runtime.windows.24.10.7.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.telemetry.client\\2.3.3\\uipath.telemetry.client.2.3.3.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.8\\uipath.uiautomation.activities.24.10.8.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.design.recoverypanel\\24.10.8\\uipath.uiautomation.activities.design.recoverypanel.24.10.8.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.8\\uipath.uiautomation.activities.runtime.24.10.8.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.8\\uipath.uiautomation.activities.runtime.design.24.10.8.nupkg.sha512",
+    "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\uipath.vision\\3.14.2\\uipath.vision.3.14.2.nupkg.sha512",
     "C:\\Users\\Aalok Lowanshi\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to download package 'UiPath.UIAutomation.Activities.Runtime.24.10.8' from 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/24.10.8/uipath.uiautomation.activities.runtime.24.10.8.nupkg'.\r\nNo such host is known. (pkgs.dev.azure.com:443)\r\n  No such host is known."
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://uipath.pkgs.visualstudio.com/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/a98dba69-6b77-4e3a-9434-1f5e5addca74/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://api.nuget.org/v3-flatcontainer/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://uipath.pkgs.visualstudio.com/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/a98dba69-6b77-4e3a-9434-1f5e5addca74/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://api.nuget.org/v3-flatcontainer/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://uipath.pkgs.visualstudio.com/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/a98dba69-6b77-4e3a-9434-1f5e5addca74/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Failed to retrieve information about 'UiPath.UIAutomation.Activities.Runtime' from remote source 'https://api.nuget.org/v3-flatcontainer/uipath.uiautomation.activities.runtime/index.json'.",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime"
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "filePath": "D:\\Gemini\\solutions\\ui path\\BlankProcess\\.local",
-      "message": "Unable to find package UiPath.UIAutomation.Activities.Runtime. No packages exist with this id in source(s): C:\\Users\\Aalok Lowanshi\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages, https://api.nuget.org/v3/index.json, https://gallery.uipath.com/api/v3/index.json, https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json, https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json",
-      "libraryId": "UiPath.UIAutomation.Activities.Runtime",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zwnxde7Qvkm64Klq6PRO1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" DesignTimeRectangle="201, 557, 455, 98" DesignTimeScaleFactor="1.350000023841858" FuzzySelectorArgument="&lt;webctrl type='' class='_ak8l' parentid='pane-side' tag='DIV' aaname='' /&gt;" Guid="af315a69-9e51-41ce-aff0-88bd1a5539eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='web.whatsapp.com' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="26a028e2-eb2d-484b-8eac-e5cb4960bea7" CvTextArea="143, 551, 391, 24" CvTextArgument="Java is a popular programming language." CvType="Text" DesignTimeRectangle="143, 550, 391, 24" ElementType="Text" Guid="339f4502-f62f-4ce0-a593-8e461336175b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e028c3a776c7059d87ef5a2de4ea897.png" xmlns="">0n0blafhuxEqrEWrEwI0Wyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

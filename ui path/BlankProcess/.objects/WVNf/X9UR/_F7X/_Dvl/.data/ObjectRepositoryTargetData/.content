@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6UBm8YrHYku1SwtvGjcGIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" DesignTimeRectangle="201, 557, 455, 98" DesignTimeScaleFactor="1.350000023841858" FuzzySelectorArgument="&lt;webctrl type='' class='_ak8l' parentid='pane-side' tag='DIV' aaname='' /&gt;" Guid="8f0ca434-2fa7-470c-95fb-b503299200f8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='web.whatsapp.com' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ef43c83-d602-4bf5-a0f0-b3f37970610e" CvTextArea="537, 551, 531, 24" CvTextArgument="Java is used to develop mobile apps, web apps, desktop" CvType="Text" DesignTimeRectangle="537, 550, 531, 24" ElementType="Text" Guid="b664c672-97f8-4993-ad8a-29fc96c52197" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="8ef43c83-d602-4bf5-a0f0-b3f37970610e" CvTextArea="143, 551, 391, 24" CvTextArgument="Java is a popular programming language." CvType="Text" DesignTimeRectangle="143, 550, 391, 24" ElementType="Text" Guid="9f958079-3f5a-4979-b083-b6a3a1c56d71" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b04acf2bbf08c390c739a07fc5e7697e.png" xmlns="">01_96Eb51eU-71jfOq0HjNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
